@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+@theme{
+  --color-princetonRed: #8E2323;
+}
+
 :root{
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;

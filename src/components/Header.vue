@@ -26,7 +26,7 @@
             </ul>
         </nav>
 
-        <router-link class="bg-rose-950 text-white px-4 py-2 rounded-md">Book a Consult</router-link>
+        <router-link class="bg-princetonRed text-white px-4 py-2 rounded-md">Book a Consult</router-link>
     </header>
 </template>
 
