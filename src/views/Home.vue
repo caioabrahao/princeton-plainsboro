@@ -101,6 +101,24 @@
         <div>
             <h2 class="font-bold text-3xl">Patient Information</h2>
             <p class="text-gray-600 mb-4">At Princeton Plainsboro Teaching Hospital, we strive to make your healthcare experience as smooth as possible. Find information about appointments, insurance, visiting hours, and more.</p>
+            
+            <div class="flex flex-col items-start gap-2 mb-4 border-2 border-gray-400 rounded-md p-4 bg-gray-50">
+                <h3 class="font-bold text-xl">Appointments</h3>
+                <p>Schedule, reschedule, or cancel appointments through our patient portal or by calling our appointment line.</p>
+                <router-link class="text-princetonRed">Learn More➜</router-link>
+            </div>
+
+            <div class="flex flex-col items-start gap-2 mb-4 border-2 border-gray-400 rounded-md p-4 bg-gray-50">
+                <h3 class="font-bold text-xl">Appointments</h3>
+                <p>Schedule, reschedule, or cancel appointments through our patient portal or by calling our appointment line.</p>
+                <router-link class="text-princetonRed">Learn More➜</router-link>
+            </div>
+
+            <div class="flex flex-col items-start gap-2 mb-4 border-2 border-gray-400 rounded-md p-4 bg-gray-50">
+                <h3 class="font-bold text-xl">Appointments</h3>
+                <p>Schedule, reschedule, or cancel appointments through our patient portal or by calling our appointment line.</p>
+                <router-link class="text-princetonRed">Learn More➜</router-link>
+            </div>
         </div>
 
         
@@ -114,6 +132,7 @@
                 <p class="text-gray-600 mb-4 text-sm">Access your medical records, test results, and communicate with your care team.</p>
                 <router-link class="bg-princetonRed text-white px-4 py-2 rounded-md w-full">Log In</router-link>
             </div>
+            
             
             
         </div>
